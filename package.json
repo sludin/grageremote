@@ -19,5 +19,8 @@
   "license": "ISC",
   "description": "",
   "type": "module",
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.4.1",
+  "installConfig": {
+    "nodeLinker": "node-modules"
+  }
 }

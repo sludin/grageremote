@@ -16,3 +16,4 @@ docs/vpn
 .gitattributes
 .yarn/
 .yarnrc.yml
+logs
